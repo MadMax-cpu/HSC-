@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <div className="header_part">
-        <img src="images/HSC.jpg" alt="i am yours" className="image" />
+        <img src="images/hsc_help.png" alt="hsc help" className="image" />
 
         <button id="btn1" className="btn">
           HOME

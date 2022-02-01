@@ -16,6 +16,13 @@ html {
   position: absolute;
   background-attachment: scroll;
 }
+
+.tution {
+  top: 400px;
+  margin: auto;
+  padding: auto;
+  position: absolute;
+}
 .footer {
   top: 300px;
   margin: auto;
